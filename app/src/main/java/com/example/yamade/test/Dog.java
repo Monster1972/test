@@ -14,7 +14,7 @@ public class Dog {
         this.mWeight = mWeight;
 
     }
-    
+
     //test
     public String getmNickName() {
         return mNickName;

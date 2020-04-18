@@ -6,6 +6,9 @@ public class Person {
 
     public int makeMoney(int grade){
 
+        Dog dog = new Dog();
+        dog.setmNickName("测试");
+
         int mApprec=0;
 
         if (grade<5){
