@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Yamade</string>
+  <string name="app_name">Yamade</string>
+  <string name="jiaoqing">矫情</string>
+  <string name="ouji">欧吉</string>
+  <string name="anim">动画</string>
+  <string name="jump">跳转</string>
+  <string name="state">变化</string>
 </resources>
