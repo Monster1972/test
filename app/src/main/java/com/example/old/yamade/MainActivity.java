@@ -92,9 +92,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.jiaoqing).setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, DesignActivity.class);
-                startActivity(intent);
-//                DesignActivity.startActivity(MainActivity.this);
+                DesignActivity.startActivity(MainActivity.this);
             }
         });
     }
